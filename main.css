@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,900&family=Raleway:wght@300;400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,800&family=Raleway:wght@300;400;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.histoh {
+  background: #d62828;
+}
+.histoh .histo {
+  background: #000814;
+}
+
+.body-contacto {
+  background: #ffb703;
+}
+.body-contacto .sec-contacto {
+  background: #ffb703;
+}
+
+.navbar-nav a {
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.navbar-brand .navbar-text {
+  color: #fff;
+  font-size: 50px;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.navbar-toggler {
+  padding: 1px 5px;
+  font-size: 25px;
+  line-height: 0.3;
+}/*# sourceMappingURL=main.css.map */
